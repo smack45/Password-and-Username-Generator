@@ -20,7 +20,7 @@ Make sure you have **Python 3** installed on your system.
 ### Running the Python Script:
 1. Open your Linux terminal (or VS Code terminal) inside the project folder.
 2. Execute the script by running:
-   bash
+   ```bash
    -python3 Main.py
 
 ##MadeByRodrigo27
