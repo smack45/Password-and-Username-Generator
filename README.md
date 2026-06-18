@@ -22,5 +22,8 @@ Make sure you have **Python 3** installed on your system.
 2. Execute the script by running:
    ```bash
    -python3 Main.py
+Or execute
+   ```bash
+   -execute \dist\Main.exe
 
 ##MadeByRodrigo27
